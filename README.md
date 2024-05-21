@@ -1,6 +1,6 @@
 
 # Hi, I'm Seva! 👋
-I'm a PHP Laravel Developer
+I'm a junior PHP Laravel Developer
 
 Skills: PHP, Laravel, SQL, GIT, API, HTML, CSS,  JS
 
