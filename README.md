@@ -2,7 +2,7 @@
 # Hi, I'm Seva! 👋
 I'm a junior PHP Laravel Developer
 
-Skills: PHP, Laravel, SQL, GIT, API, HTML, CSS,  JS
+Skills: Git, Docker, PHP, Laravel, TypeScript, JavaScript, NestJS, Node, Swagger, SQl, PostgreSQL, MySQL
 
 - 👨‍💻  I’m currently learning VUE, JS, Docker.  
 - 📩 Сontact me: telegram: @vsechp
