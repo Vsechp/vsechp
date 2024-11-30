@@ -1,8 +1,8 @@
 
 # Hi, I'm Seva! 👋
-I'm a junior PHP Laravel Developer
+I'm a junior Fullstack Developer
 
-Skills: Git, Docker, PHP, Laravel, TypeScript, JavaScript, NestJS, Node, Swagger, SQL, PostgreSQL, MySQL
+Skills: Angular, PHP, Laravel, NestJS, TypeScript, JavaScript, Node, Swagger, Git, Docker, SQL, PostgreSQL, MySQL
 
-- 👨‍💻  I’m currently learning VUE, JS, Docker.  
+- 👨‍💻  Currently learning Angular, JS, Docker.  
 - 📩 Сontact me: telegram: @vsechp
